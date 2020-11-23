@@ -103,11 +103,11 @@ pygmentscodefencesguesssyntax = true
     icon = "fa fa-pencil"
     weight = 5
     url = "http://workblog.pilin.name/"
-#[[params.social]]
-#    name = "Instagram"
-#    icon = "fa fa-instagram"
-#    weight = 6
-#    url = "https://www.instagram.com/ww898/"
+[[params.social]]
+    name = "Instagram"
+    icon = "fa fa-instagram"
+    weight = 6
+    url = "https://www.instagram.com/ww898/"
 [[params.social]]
     name = "PGP Key"
     icon = "fa fa-cut-key"
