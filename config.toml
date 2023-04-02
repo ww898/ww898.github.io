@@ -112,7 +112,7 @@ pygmentscodefencesguesssyntax = true
     name = "PGP Key"
     icon = "fa fa-cut-key"
     weight = 7
-    url = "https://pilin.name/3E1205BD14E2DE53ADAE3D7073519ECF0ACEF7CF.txt"
+    url = "https://pilin.name/73519ECF0ACEF7CF.txt"
 [[params.social]]
     name = "RSS"
     icon = "fa fa-rss"
